@@ -2,13 +2,10 @@
 
 # Harsh Chaudhary
 
-**Full-Stack Engineer**
-
+**Full-Stack Engineer**<br>
 **[Email](mailto:xharsh790@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/harsh-choudhary-v1)**
 
 </div>
-
----
 
 ## Summary
 
@@ -16,9 +13,13 @@ Engineer with five years of experience building security and observability produ
 performance-critical web interfaces and developer tooling, currently focused on integrating AI into
 production systems.
 
+<br>
+
 ## Skills
 
 TypeScript &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; HTML &nbsp;·&nbsp; SCSS
+
+<br>
 
 ## Repositories
 
