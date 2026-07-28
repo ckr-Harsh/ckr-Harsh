@@ -2,7 +2,7 @@
 
 # Harsh Chaudhary
 
-**Full-Stack Engineer** &nbsp;·&nbsp; Frontend-focused
+**Full-Stack Engineer**
 
 <sub>FIVE YEARS IN SECURITY AND OBSERVABILITY</sub>
 
@@ -25,17 +25,6 @@
 **AI** &nbsp; `LLM APIs` `Model Context Protocol` `Transformers & Classifiers` `Model Routing`
 
 **Tooling** &nbsp; `Git` `GitHub Actions` `Playwright` `Docusaurus`
-
-### Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ckr-Harsh&theme=dark">
-  <img src="https://github-stats-extended.vercel.app/api?username=ckr-Harsh" alt="GitHub statistics for ckr-Harsh" width="95%">
-</picture>
-
-</div>
 
 ---
 
