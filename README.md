@@ -2,7 +2,6 @@
 
 # Harsh Chaudhary
 
-**Full-Stack Engineer**<br>
 **[Email](mailto:xharsh790@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/harsh-choudhary-v1)**
 
 </div>
