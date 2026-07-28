@@ -1,22 +1,46 @@
+<div align="center">
+
 # Harsh Chaudhary
 
-Full-stack engineer, frontend-focused, with five years of experience in security and observability.
+**Full-Stack Engineer** &nbsp;·&nbsp; Frontend-focused
 
-I work on performance-critical web interfaces and developer tooling, currently focused on integrating AI into production systems — LLM APIs, the Model Context Protocol, and cost-efficient inference.
+<sub>FIVE YEARS IN SECURITY AND OBSERVABILITY</sub>
+
+</div>
+
+---
+
+> Performance-critical web interfaces and developer tooling — currently focused on
+> integrating AI into production systems: LLM APIs, the Model Context Protocol,
+> and cost-efficient inference.
 
 ### Stack
 
-| --- | --- |
-| **Frontend** | Angular · TypeScript · RxJS · Angular Signals · SCSS · Web Workers |
-| **Backend** | Node.js · Express · Python · FastAPI · REST |
-| **Infrastructure** | PostgreSQL · Redis · Docker · Google Cloud Platform |
-| **AI** | LLM APIs · Model Context Protocol · Transformer & classifier models · Model routing |
-| **Tooling** | Git · GitHub Actions · Playwright · Docusaurus |
+**Frontend** &nbsp; `Angular` `TypeScript` `RxJS` `Angular Signals` `SCSS` `Web Workers`
 
-### Contact
+**Backend** &nbsp; `Node.js` `Express` `Python` `FastAPI` `REST`
 
-[Email](mailto:xharsh790@gmail.com) · [LinkedIn](https://linkedin.com/in/harsh-choudhary-v1)
+**Infrastructure** &nbsp; `PostgreSQL` `Redis` `Docker` `Google Cloud Platform`
+
+**AI** &nbsp; `LLM APIs` `Model Context Protocol` `Transformers & Classifiers` `Model Routing`
+
+**Tooling** &nbsp; `Git` `GitHub Actions` `Playwright` `Docusaurus`
 
 ### Stats
-[![Harsh's GitHub stats](https://github-stats-extended.vercel.app/api?username=ckr-Harsh)](https://github.com/stats-organization/github-stats-extended)
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ckr-Harsh&theme=dark">
+  <img src="https://github-stats-extended.vercel.app/api?username=ckr-Harsh" alt="GitHub statistics for ckr-Harsh" width="95%">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>[EMAIL](mailto:xharsh790@gmail.com) &nbsp;·&nbsp; [LINKEDIN](https://linkedin.com/in/harsh-choudhary-v1)</sub>
+
+</div>
