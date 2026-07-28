@@ -8,9 +8,9 @@
 
 ## Summary
 
-Engineer with five years of experience building security and observability products. I work on
-performance-critical web interfaces and developer tooling, currently focused on integrating AI into
-production systems.
+Developer with five years of experience, mostly on security and observability products. Most of my
+work is web interfaces that need to stay fast with a lot of data on screen, plus the tooling around
+them. Lately that's meant a lot of time spent getting AI features to hold up in production.
 
 <br>
 
