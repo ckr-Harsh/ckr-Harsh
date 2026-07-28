@@ -26,16 +26,10 @@ production systems.
 | **AI** | `LLM APIs` `Model Context Protocol` |
 | **Tooling** | `Git` `GitHub Actions` `Playwright` `Docusaurus` |
 
-## Experience
+## Repositories
 
-| Role | Company | Period |
+| Project | Description | Stack |
 | --- | --- | --- |
-| Member of Technical Staff 2 | AppSentinels | Jul 2023 – Present |
-| Member of Technical Staff 1 | AppSentinels | Jul 2021 – Jul 2023 |
-| Software Engineering Intern | AppSentinels | Mar 2021 – Jun 2021 |
-
-## Education
-
-| Degree | Institution | Period |
-| --- | --- | --- |
-| B.E., Computer Science and Engineering | Punjab Technical University | 2017 – 2021 |
+| [angular-material-components](https://github.com/ckr-Harsh/angular-material-components) | Component library extending Angular Material | `Angular` `TypeScript` |
+| [Book-Review](https://github.com/ckr-Harsh/Book-Review) | Full-stack book review application | `React` `Django` |
+| [Login-Form](https://github.com/ckr-Harsh/Login-Form) | E-commerce web app with built-in authorization | `TypeScript` `React` |
