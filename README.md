@@ -6,7 +6,6 @@ I work on performance-critical web interfaces and developer tooling, currently f
 
 ### Stack
 
-| | |
 | --- | --- |
 | **Frontend** | Angular · TypeScript · RxJS · Angular Signals · SCSS · Web Workers |
 | **Backend** | Node.js · Express · Python · FastAPI · REST |
@@ -17,3 +16,7 @@ I work on performance-critical web interfaces and developer tooling, currently f
 ### Contact
 
 [Email](mailto:xharsh790@gmail.com) · [LinkedIn](https://linkedin.com/in/harsh-choudhary-v1)
+
+### Stats
+[![Harsh's GitHub stats](https://github-stats-extended.vercel.app/api?username=ckr-Harsh)](https://github.com/stats-organization/github-stats-extended)
+
