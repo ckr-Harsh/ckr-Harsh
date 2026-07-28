@@ -17,7 +17,7 @@ production systems.
 
 ## Skills
 
-TypeScript &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; HTML &nbsp;·&nbsp; SCSS
+TypeScript &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; Angular &nbsp;·&nbsp; React &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Playwright
 
 <br>
 
