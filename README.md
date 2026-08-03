@@ -24,6 +24,7 @@ TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; Angular &nbsp;·&nbsp; React &nb
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [email-server](https://github.com/ckr-Harsh/email-server) | Email server implementation | Go |
 | [angular-material-components](https://github.com/ckr-Harsh/angular-material-components) | Component library extending Angular Material | Angular |
 | [Book-Review](https://github.com/ckr-Harsh/Book-Review) | Full-stack book review application | React, Django |
 | [Login-Form](https://github.com/ckr-Harsh/Login-Form) | E-commerce web app with built-in authorization | Angular |
